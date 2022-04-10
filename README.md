@@ -102,17 +102,6 @@ MEng civil and structural engineer turned software developer. If you want to lea
   src="https://img.shields.io/static/v1?logo=Ruby&label=%20&message=Ruby&color=black&logoColor=CC342D"
 />
 
-#### Human Languages
-
-<img
-  alt="English"
-  src="https://img.shields.io/badge/%20-English-black"
-/>
-<img
-  alt="Arabic"
-  src="https://img.shields.io/badge/%20-Arabic-black"
-/>
-
 #### Microcontrollers
 
 <img
@@ -217,7 +206,18 @@ MEng civil and structural engineer turned software developer. If you want to lea
   src="https://img.shields.io/static/v1?logo=Pop!_OS&label=%20&message=Pop!_OS&color=black"
 />
 
-##### Adobe
+#### Human Languages
+
+<img
+  alt="English"
+  src="https://img.shields.io/badge/%20-English-black"
+/>
+<img
+  alt="Arabic"
+  src="https://img.shields.io/badge/%20-Arabic-black"
+/>
+
+#### Adobe
 
 <img
   alt="PhotoShop"
