@@ -10,11 +10,7 @@ MEng civil and structural engineer turned software developer. If you want to lea
   />
 </a>
 
-&nbsp;
-
 ---
-
-&nbsp;
 
 ### Tech I use
 
