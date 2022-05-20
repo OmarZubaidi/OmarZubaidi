@@ -351,3 +351,8 @@ MEng civil and structural engineer turned software developer. If you want to lea
     src='https://img.shields.io/static/v1?logo=AdobePremierePro&label=%20&message=Premiere%20Pro&color=black'
   />
 </a>
+
+<img
+  src='https://github-readme-stats.vercel.app/api/top-langs/?username=OmarZubaidi&layout=compact&theme=dark'
+  alt='Most used languages'
+/>
