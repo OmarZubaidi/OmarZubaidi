@@ -356,5 +356,5 @@ MEng civil and structural engineer turned software developer. If you want to lea
 <img
   src='https://github-readme-stats.vercel.app/api/top-langs/?username=OmarZubaidi&layout=compact&theme=dark'
   alt='Most used languages'
-  height='200px'
+  height='200'
 />
