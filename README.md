@@ -8,9 +8,3 @@ MEng civil and structural engineer turned software developer. If you want to lea
     src='https://img.shields.io/static/v1?logo=LinkedIn&label=%20&message=LinkedIn&color=black&logoColor=0A66C2'
   />
 </a>.
-
-<img
-  src='https://github-readme-stats.vercel.app/api/top-langs/?username=OmarZubaidi&layout=compact&theme=dark'
-  alt='Most used languages'
-  height='150'
-/>
