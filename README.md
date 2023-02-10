@@ -1,5 +1,3 @@
-### Hello and welcome.
-
 MEng civil and structural engineer turned software developer. If you want to learn the details, <a
   href='https://www.linkedin.com/in/omarzubaidi'>
   <img
