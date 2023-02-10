@@ -15,24 +15,6 @@ MEng civil and structural engineer turned software developer. If you want to lea
 
 #### Front-end
 
-<a href='https://html.com/html5/'>
-  <img
-    alt='HTML5'
-    src='https://img.shields.io/static/v1?logo=HTML5&label=%20&message=HTML%205&color=black'
-  />
-</a>
-<a href='https://css3.com/'>
-  <img
-    alt='CSS3'
-    src='https://img.shields.io/static/v1?logo=CSS3&label=%20&message=CSS%203&color=black&logoColor=1572B6'
-  />
-</a>
-<a href='https://sass-lang.com/'>
-  <img
-    alt='SASS'
-    src='https://img.shields.io/static/v1?logo=SASS&label=%20&message=SASS&color=black'
-  />
-</a>
 <a href='https://www.javascript.com/'>
   <img
     alt='JavaScript'
@@ -51,12 +33,6 @@ MEng civil and structural engineer turned software developer. If you want to lea
     src='https://img.shields.io/static/v1?logo=React&label=%20&message=React&color=black'
   />
 </a>
-<a href='https://angular.io/'>
-  <img
-    alt='Angular'
-    src='https://img.shields.io/static/v1?logo=Angular&label=%20&message=Angular&color=black&logoColor=DD0031'
-  />
-</a>
 
 #### Back-end
 
@@ -72,45 +48,6 @@ MEng civil and structural engineer turned software developer. If you want to lea
     src='https://img.shields.io/static/v1?logo=Express&label=%20&message=Express&color=black'
   />
 </a>
-<a href='https://koajs.com/'>
-  <img
-    alt='Koa'
-    src='https://img.shields.io/static/v1?logo=Koa&label=%20&message=Koa&color=black'
-  />
-</a>
-
-#### Databases
-
-<a href='https://sqlite.org/index.html'>
-  <img
-    alt='SQLite'
-    src='https://img.shields.io/static/v1?logo=SQLite&label=%20&message=SQLite&color=black&logoColor=003B57'
-  />
-</a>
-<a href='https://www.postgresql.org/'>
-  <img
-    alt='PostgreSQL'
-    src='https://img.shields.io/static/v1?logo=PostgreSQL&label=%20&message=PostgreSQL&color=black'
-  />
-</a>
-<a href='https://sequelize.org/'>
-  <img
-    alt='Sequelize'
-    src='https://img.shields.io/static/v1?logo=Sequelize&label=%20&message=Sequelize&color=black'
-  />
-</a>
-<a href='https://www.mongodb.com/'>
-  <img
-    alt='MongoDB'
-    src='https://img.shields.io/static/v1?logo=MongoDB&label=%20&message=MongoDB%20%28%26%20Mongoose%29&color=black'
-  />
-</a>
-<a href='https://graphql.org/'>
-  <img
-    alt='GraphQL'
-    src='https://img.shields.io/static/v1?logo=GraphQL&label=%20&message=GraphQL&color=black&logoColor=E10098'
-  />
-</a>
 
 #### Testing
 
@@ -124,60 +61,6 @@ MEng civil and structural engineer turned software developer. If you want to lea
   <img
     alt='Cypress'
     src='https://img.shields.io/static/v1?logo=Cypress&label=%20&message=Cypress&color=black'
-  />
-</a>
-
-#### Other Languages and Frameworks
-
-<a href='https://www.iso.org/standard/74528.html'>
-  <img
-    alt='C'
-    src='https://img.shields.io/static/v1?logo=C&label=%20&message=C&color=black'
-  />
-</a>
-<a href='https://www.python.org/'>
-  <img
-    alt='Python'
-    src='https://img.shields.io/static/v1?logo=Python&label=%20&message=Python&color=black'
-  />
-</a>
-<a href='https://www.djangoproject.com/'>
-  <img
-    alt='Django'
-    src='https://img.shields.io/static/v1?logo=Django&label=%20&message=Django&color=black&logoColor=092E20'
-  />
-</a>
-<a href='https://flask.palletsprojects.com/'>
-  <img
-    alt='Flask'
-    src='https://img.shields.io/static/v1?logo=Flask&label=%20&message=Flask&color=black'
-  />
-</a>
-<a href='https://jinja.palletsprojects.com/'>
-  <img
-    alt='Jinja'
-    src='https://img.shields.io/static/v1?logo=Jinja&label=%20&message=Jinja&color=black&logoColor=B41717'
-  />
-</a>
-<a href='https://www.ruby-lang.org/'>
-  <img
-    alt='Ruby'
-    src='https://img.shields.io/static/v1?logo=Ruby&label=%20&message=Ruby&color=black&logoColor=CC342D'
-  />
-</a>
-
-#### Microcontrollers
-
-<a href='https://www.arduino.cc/'>
-  <img
-    alt='Arduino'
-    src='https://img.shields.io/static/v1?logo=arduino&label=%20&message=Arduino&color=black'
-  />
-</a>
-<a href='https://www.raspberrypi.org/'>
-  <img
-    alt='Raspberry Pi'
-    src='https://img.shields.io/static/v1?logo=raspberrypi&label=%20&message=Raspberry%20Pi&color=black&logoColor=A22846'
   />
 </a>
 
