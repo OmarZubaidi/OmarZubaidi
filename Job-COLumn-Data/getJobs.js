@@ -52,14 +52,11 @@ for (let i = 0; i < 100; i++) {
 
 // Save JSON file when done
 Promise.allSettled(promises).then((_) => {
-  const filteredJobs = jobPostings.filter(
-    (value, index, self) => index === self.findIndex((t) => t.jobId === value.jobId)
-  );
-
-  console.log(
-    `Found ${jobPostings.length} job postings and removed ${jobPostings.length - filteredJobs.length} duplicates`
-  );
-  console.log(`Saved ${filteredJobs.length} jobs on ${new Date()}`);
+  // Because filtering out duplicates just isn't working
+  for (let i = 0; i < jobPostings.length; i++) {
+    jobPostings[i].id = i;
+  }
+  console.log(`Saved ${jobPostings.length} jobs on ${new Date()}`);
   const json = JSON.stringify(jobPostings);
   writeFileSync('./jobs.json', json);
 });
