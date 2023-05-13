@@ -52,12 +52,9 @@ for (let i = 0; i < 100; i++) {
 
 // Save JSON file when done
 Promise.allSettled(promises).then((_) => {
-  const lookup = jobPostings.reduce((accumulator, job) => {
-    accumulator[job.jobId] = ++accumulator[job.jobId] || 0;
-    return accumulator;
-  }, {});
-
-  const filteredJobs = jobPostings.filter((job) => lookup[job.jobId]);
+  const filteredJobs = jobPostings.filter(
+    (value, index, self) => index === self.findIndex((t) => t.jobId === value.jobId)
+  );
 
   console.log(
     `Found ${jobPostings.length} job postings and removed ${jobPostings.length - filteredJobs.length} duplicates`
