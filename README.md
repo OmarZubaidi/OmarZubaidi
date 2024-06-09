@@ -1,3 +1,3 @@
 # Welcome!
 
-Check out [my projects](https://omarzubaidi.github.io/Welcome/)!
+Check out [what I've made](https://omarzubaidi.github.io/Welcome/)!
